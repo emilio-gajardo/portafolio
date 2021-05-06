@@ -1,0 +1,7 @@
+.tabla-formacion, th, td{
+    border: 1px solid rgb(165, 164, 164);
+}
+
+.tabla-formacion, th{
+    text-align: center;
+}

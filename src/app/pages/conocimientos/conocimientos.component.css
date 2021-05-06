@@ -1,0 +1,52 @@
+.div-conocimientos-tecnologicos{
+    /* font-family: 'Courier New', Courier, monospace; */
+    font-weight: bold;
+}
+.ico-tecnologias {
+    width: 85px;
+    padding-right: 20px;
+}
+
+.ico-frontend{
+    height: 50px;
+}
+
+
+.ico-backend {
+    height: 70px;
+    padding-right: 30px;
+}
+.ico-expressjs{
+    height: 50px;
+    padding-right: 30px;
+}
+
+.ico-bd {
+    height: 60px;
+    padding-right: 30px;
+}
+
+.ico-nodejs{
+    height: 100px;
+    padding-right: 20px;
+}
+
+.ico-rdbms {
+    height: 70px;
+    padding-right: 20px;
+}
+
+.ico-aws {
+    height: 70px;
+    padding-right: 20px;
+}
+
+.ico-ofimatica {
+    height: 50px;
+    padding-right: 20px;
+}
+
+.ico-modelamiento{
+    height: 70px;
+    padding-right: 20px;
+}

@@ -1,0 +1,30 @@
+.list-group-item.active {
+  background-color: #169db2 !important;
+  border-color: #169db2 !important;
+}
+
+.carousel-item {
+  text-align: center;
+  align-items: center;
+}
+
+.img-backend,
+.img-frontend,
+.img-general,
+.img-registro-libros {
+  text-align: center;
+  align-items: center;
+  height: 400px;
+}
+
+.img-nuevo-libro {
+  text-align: center;
+  align-items: center;
+  height: 450px;
+}
+
+.img-registro-autores {
+  text-align: center;
+  align-items: center;
+  height: 200px;
+}

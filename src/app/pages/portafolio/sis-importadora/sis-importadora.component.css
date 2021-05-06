@@ -1,0 +1,25 @@
+.list-group-item.active {
+  background-color: #169db2;
+  border-color: #169db2;
+}
+
+.carousel-item {
+  text-align: center;
+  align-items: center;
+}
+
+.hx-350 {
+  height: 350px;
+}
+
+.hx-400 {
+  height: 400px;
+}
+
+.hx-450 {
+  height: 450px;
+}
+
+.hx-500 {
+  height: 500px;
+}
