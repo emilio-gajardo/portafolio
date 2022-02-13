@@ -13,6 +13,8 @@ import { HomeComponent } from "./home/home.component";
 
 // --------------------------------------------------------------------------
 // Portafolio
+import { Apirestfulphp7Component } from "./portafolio/apirestfulphp7/apirestfulphp7.component";
+
 import { MiportafolioComponent } from "./portafolio/mi-portafolio/mi-portafolio.component";
 
 import { SisBibliotecaComponent } from "./portafolio/sis-biblioteca/sis-biblioteca.component";
@@ -34,6 +36,7 @@ const childRoutes: Routes = [
 
 
     // Portafolio    
+    { path: 'mi-portafolio/apirestfulphp7', component: Apirestfulphp7Component, data: { titulo: 'Api Restful php7' } },
     { path: 'mi-portafolio', component: MiportafolioComponent, data: { titulo: 'Mi Portafolio' } },
     { path: 'mi-portafolio/sis-biblioteca', component: SisBibliotecaComponent, data: { titulo: 'Sistema Biblioteca' } },
     { path: 'mi-portafolio/sis-erp-enfermeria', component: SisEnfermeriaComponent, data: { titulo: 'Sistema ERP Enfermería' } },

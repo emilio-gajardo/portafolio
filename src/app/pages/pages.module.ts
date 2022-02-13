@@ -15,6 +15,7 @@ import { HomeComponent } from "./home/home.component";
 
 
 // Portafolio
+import { Apirestfulphp7Component } from "./portafolio/apirestfulphp7/apirestfulphp7.component";
 import { MiportafolioComponent } from "./portafolio/mi-portafolio/mi-portafolio.component";
 import { SisBibliotecaComponent } from "./portafolio/sis-biblioteca/sis-biblioteca.component";
 import { SisEnfermeriaComponent } from './portafolio/sis-enfermeria/sis-enfermeria.component';
@@ -40,6 +41,7 @@ import { SisHospitalComponent } from './portafolio/sis-hospital/sis-hospital.com
         SisAdmintaskComponent,
         SisImportadoraComponent,
         SisHospitalComponent,
+        Apirestfulphp7Component,
         // NavbarComponent,
         // FooterComponent
     ],
@@ -56,6 +58,7 @@ import { SisHospitalComponent } from './portafolio/sis-hospital/sis-hospital.com
         SisAdmintaskComponent,
         SisImportadoraComponent,
         SisHospitalComponent,
+        Apirestfulphp7Component,
         // NavbarComponent,
         // FooterComponent
     ],

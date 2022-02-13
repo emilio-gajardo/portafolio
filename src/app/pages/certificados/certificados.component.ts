@@ -14,6 +14,8 @@ export class CertificadosComponent{
   
   urlCertificadoCursoMicroservicios: string = "https://www.udemy.com/certificate/UC-bf379dcb-bb1c-4151-9928-e7d937bbdf1a/";
 
+  urlCertificadoCursoOracleSQL: string = "https://www.udemy.com/certificate/UC-8e593ad4-80ab-4094-9b83-9134a33ac256/";
+
 
 
 }
