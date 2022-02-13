@@ -1,0 +1,23 @@
+.list-group-item.active{
+  background-color: #17A2B8!important;
+  border-color: #17A2B8!important;
+}
+
+.img-delete-curso,
+.img-endpoints
+.img-estructura,
+.img-get-all-cursos,
+.img-get-all-cursos-paginacion,
+.img-get-un-curso,
+.img-get-vacio,
+.img-post-agregar-cliente,
+.img-post-agregar-curso,
+.img-put-un-curso
+{
+    text-align: center;
+    align-items: center;
+    height: 550px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
