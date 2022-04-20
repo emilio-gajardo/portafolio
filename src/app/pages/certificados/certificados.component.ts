@@ -16,6 +16,8 @@ export class CertificadosComponent{
 
   urlCertificadoCursoOracleSQL: string = "https://www.udemy.com/certificate/UC-8e593ad4-80ab-4094-9b83-9134a33ac256/";
 
+  urlCertificadoCursoSpringBootyH2: string = "https://www.udemy.com/certificate/UC-612be423-3c41-447e-b33e-0d96a9b32481/";
+
 
 
 }

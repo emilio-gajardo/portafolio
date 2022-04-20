@@ -11,3 +11,7 @@
 .tabla-certificados, th, td{
     border: 1px solid rgb(165, 164, 164);
 }
+
+.text-12px{
+  font-size: 12px;
+}

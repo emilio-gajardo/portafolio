@@ -11,3 +11,27 @@
 .ico-youtube-programacion365{
     height: 32px;
 }
+
+.div-proyectos{
+  padding-bottom: 200px;
+}
+
+.text-12px{
+  font-size: 12px;
+}
+
+.div-menu-lateral{
+  width: 100px;
+}
+
+.tab-pane{
+  padding-left: 20px;
+}
+
+.table{
+  font-size: 12px;
+}
+
+.table td:first-child{
+  width: 160px;
+}

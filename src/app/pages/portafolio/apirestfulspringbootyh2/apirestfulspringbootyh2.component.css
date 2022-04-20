@@ -1,0 +1,32 @@
+.text-12px {
+  font-size: 12px !important;
+}
+
+.list-group-item.active {
+  background-color: #17a2b8 !important;
+  border-color: #17a2b8 !important;
+}
+
+.table td:first-child {
+  width: 160px;
+}
+
+.div-solucion,
+.div-objetivos,
+.div-imagenes {
+  margin-top: -45px;
+}
+
+.img-endpoints,
+.img-estructura {
+  text-align: center;
+  align-items: center;
+  height: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.div-contexto{
+  line-height: 200%;
+}

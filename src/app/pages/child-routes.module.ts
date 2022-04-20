@@ -13,6 +13,8 @@ import { HomeComponent } from "./home/home.component";
 
 // --------------------------------------------------------------------------
 // Portafolio
+import { Apirestfulspringbootyh2Component } from './portafolio/apirestfulspringbootyh2/apirestfulspringbootyh2.component';
+
 import { Apirestfulphp7Component } from "./portafolio/apirestfulphp7/apirestfulphp7.component";
 
 import { MiportafolioComponent } from "./portafolio/mi-portafolio/mi-portafolio.component";
@@ -36,6 +38,8 @@ const childRoutes: Routes = [
 
 
     // Portafolio    
+    { path: 'mi-portafolio/apirestfulspringbootyh2', component: Apirestfulspringbootyh2Component, data: { titulo: 'Api Restful Spring Boot y H2' } },
+
     { path: 'mi-portafolio/apirestfulphp7', component: Apirestfulphp7Component, data: { titulo: 'Api Restful php7' } },
     { path: 'mi-portafolio', component: MiportafolioComponent, data: { titulo: 'Mi Portafolio' } },
     { path: 'mi-portafolio/sis-biblioteca', component: SisBibliotecaComponent, data: { titulo: 'Sistema Biblioteca' } },
